@@ -1,6 +1,17 @@
 # MERN Authentication Starter
 
-This is a starter app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool. This authentication workflow is based off of my [MERN Stack From Scratch | eCommerce](https://www.traversymedia.com/mern-stack-from-scratch) course.
+MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment & More
+
+Traversy Media
+
+# [https://github.com/jamesavakian62/reacts_mern_bootstrap_redux_auth/edit/main/readme.md]
+
+This is a starter app for a MERN stack application with authentication. This is for a SPA
+
+![Screenshot 2023-07-23 at 9 10 50 PM](https://github.com/jamesavakian62/reacts_mern_bootstrap_redux_auth/assets/92414210/2606b5f2-765a-4621-b9a1-a8e75f6f2a14)
+
+
+(Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool. This authentication workflow is based off of my [MERN Stack From Scratch | eCommerce](https://www.traversymedia.com/mern-stack-from-scratch) course.
 
 <img src="./frontend/public/screen.png" />
 
